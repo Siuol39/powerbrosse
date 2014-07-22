@@ -1,0 +1,167 @@
+@import url(http://fonts.googleapis.com/css?family=Lemon);
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+
+body
+{
+	background: url("images/fond_jaune.png");;
+	color: #000d39;
+	font-family: 'Varela Round', sans-serif;
+}
+
+#bloc_page
+{
+	width: 75%;
+	margin: auto;
+	/*border: solid 1px;*/
+}
+
+header
+{
+	text-align: right;
+	/*border-bottom: 2px black outset;*/
+}
+
+header div
+{
+	width: 90%;
+	display: inline-block;
+	text-align: left;
+}
+
+header a
+{
+	color: #000d39;
+}
+
+h1
+{
+	/*font-variant: small-caps;*/
+	font-family: 'Lemon', cursive;
+	font-size: 2.6em;
+}
+
+nav
+{
+	border-top: solid 2px;
+	border-bottom: solid 2px;
+}
+
+nav li
+{
+	display: inline-block;
+	width: 15%;
+	/*border: solid 1px;*/
+	text-align: center;
+	background: #242424;
+	color: white;
+	height: 100%;
+	vertical-align: middle;
+}
+
+nav a
+{
+	color: white;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+
+p
+{
+	text-align: justify;
+}
+
+footer
+{
+	border-top: solid 2px;
+	text-align: center;
+}
+
+footer p
+{
+	display: inline-block;
+	width: 32%;
+	vertical-align: middle;
+	text-align: center;
+	/*border: solid 1px;*/
+}
+
+#CrCo
+{
+	width: 100%;
+}
+
+a
+{
+	text-decoration: none;
+	color: #0044FE;
+}
+
+h2
+{
+	text-align: center;
+	font-family: 'Lemon', cursive;
+	font-variant: small-caps;
+}
+
+h3
+{
+	font-family: 'Lemon', cursive;
+}
+
+.droite
+{
+	text-align: right;
+}
+
+.champ
+{
+	width: 300px;
+	font-family: 'Varela Round', sans-serif;
+}
+
+textarea
+{
+	height: 60px;
+	font-family: 'Varela Round', sans-serif;
+}
+
+#trailer, .centre
+{
+	text-align: center;
+}
+
+.bonneAlerte
+{
+	background-color: #54d44a;
+	color: white;
+	text-align: center;
+}
+
+.mauvaiseAlerte
+{
+	background-color: #ff3f3f;
+	color: black;
+	text-align: center;
+}
+
+.rouge
+{
+	color: red;
+}
+
+.petit
+{
+	font-size: 12px;
+}
+
+/*table
+{
+	border-collapse: collapse;
+}
+
+td
+{
+	border: solid 1px black;
+}*/
+
