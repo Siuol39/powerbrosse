@@ -32,7 +32,7 @@
 		 <a href="compteur.php" alt="Compteuse de tours">machine à compter les tours</a>.
 		</p>
 		<figure class="centre">
-			<a href="images/Ardeche" alt=""><img src="images/Ardeche" alt="montagne" title="Les monts ardéchois" /></a>
+			<a href="images/Ardeche.png" alt=""><img src="images/Ardeche.png" alt="montagnes ardéchoises" title="Les monts ardéchois" /></a>
 			<figcaption>Le berceau de la Powerbrosse...</figcaption>
 		</figure>
 	</section>
