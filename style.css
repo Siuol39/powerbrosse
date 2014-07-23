@@ -43,20 +43,34 @@ h1
 
 nav
 {
+	padding: 0;
 	border-top: solid 2px;
 	border-bottom: solid 2px;
+	text-align: center;
 }
 
 nav li
 {
 	display: inline-block;
-	width: 15%;
+	width: auto;
 	/*border: solid 1px;*/
 	text-align: center;
 	background: #242424;
 	color: white;
 	height: 100%;
 	vertical-align: middle;
+	padding: 3px 18px 3px 18px;
+	margin: auto;
+}
+
+.first
+{
+	margin-left: 0;
+}
+
+.last
+{
+	margin-right: 0;
 }
 
 nav a
