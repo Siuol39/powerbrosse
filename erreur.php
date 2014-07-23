@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Erreur&nbsp;:page inexistante - Powerbrosse</title>
+	<title>Erreur&nbsp;: page inexistante - Powerbrosse</title>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="style.css">
 	<?php include("icone.php");?>

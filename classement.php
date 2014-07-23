@@ -15,6 +15,10 @@
 	<h2>Classement des brosses du marché</h2>
 
 <?php include("construction.php");?>
+	<p>Cependant, vous aimerez peut-être savoir qu'une brosse-à-dents usée est généralement plus efficace
+	   qu'une brosse-à-dents neuve.<br />
+	   Nous vous conseillons également de ne pas utiliser pour vous <em>brosser les dents</em> une brosse-à-dents qui a déjà été utilisée
+	   en Powerbrosse, et ce <em>surtout si vous l'avez faite tomber par terre et si le per terre en question était sale</em>.
 
 <?php include("footer.php");?>
 
