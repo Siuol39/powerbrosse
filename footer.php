@@ -1,5 +1,5 @@
 ﻿	<footer>
-		<p><a href="https://twitter.com/powerbrosse" alt=""><img src="images/BP_twitter.png" alt="Twitter" /></a></p>
+		<p><a href="https://twitter.com/powerbrosse" alt="" target="_blank"><img src="images/BP_twitter.png" alt="Twitter" /></a></p>
 		<p>
 		<!-- DEBUT CODE compteur-gratuit.org -->
 		<script language="JavaScript" src="http://www.compteur-gratuit.org/count/c.js?id=9580043&amp;t=2&amp;d=38&amp;n=4&amp;s=0"></script><noscript>un <a target="_blank" href="http://www.compteur-gratuit.org">compteur gratuit</a> pour votre site web</noscript>
