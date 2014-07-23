@@ -10,6 +10,8 @@
 <body>
 <div id="bloc_page">
 
+<?php header('Location: erreur.php');?>
+
 <?php include("header.php");?>
 
 	<h2>Qui est derrière la Powerbrosse&nbsp;?</h2>
