@@ -1,1 +1,2 @@
 ErrorDocument 404 http://powerbrosse.free.fr/erreur.php
+ErrorDocument 500 http://www.google.fr
