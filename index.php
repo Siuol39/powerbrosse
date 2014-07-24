@@ -64,7 +64,8 @@
 		(ou Mega-turning-uber-board-of-the-death)
 		autour de son doigt. Cela peut paraître anodin, mais vous
 		n'imaginez pas toutes les finesses et le savoir-faire que peut requérir
-		ce noble art...
+		ce noble art... <br />
+		Allez, hop hop hop, on écrit n'importe-quoi, on s'en fout c'est une nouvelle branche lol.
 		</p>
 	</section>
 
